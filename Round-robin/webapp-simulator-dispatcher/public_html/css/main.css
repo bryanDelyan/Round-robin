@@ -1,0 +1,52 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+/* Agrega estos estilos o personalízalos según tus necesidades */
+.result-table {
+   border-collapse: collapse;
+   width: 100%;
+ }
+ 
+ .result-table th, .result-table td {
+   border: 1px solid black;
+   padding: 8px;
+   text-align: center;
+ }
+ 
+ .green {
+   background-color: green;
+   color: white;
+ }
+ 
+ .grey {
+   background-color: grey;
+   color: white;
+ }
+ 
+ .red {
+   background-color: red;
+   color: white;
+ }
+ 
+ .yellow {
+   background-color: yellow;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
